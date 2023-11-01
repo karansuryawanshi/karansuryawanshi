@@ -2,7 +2,7 @@
 
 ##
 
-<p align="center"> IT Engineering student with the passion of frontend development. Adapt at swiftly learning and implementing new technologies with the skill of MERN stack development and deep understanding of data structure and algorithm. Looking for the opportunity to work in your company as a frontend developer </p> 
+<p align="center"> IT Engineering student with the passion of full Stack development. Adapt at swiftly learning and implementing new technologies with the skill of MERN stack development and deep understanding of data structure and algorithm. Looking for the opportunity as a full Stack developer </p> 
 
 ###
 
