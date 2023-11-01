@@ -1,5 +1,9 @@
 <h2 align="center">Hi 👋! My name is Karan and I'm a Full Stack Developer.</h2>
 
+##
+
+<p align="center"> IT Engineering student with the passion of frontend development. Adapt at swiftly learning and implementing new technologies with the skill of MERN stack development and deep understanding of data structure and algorithm. Looking for the opportunity to work in your company as a frontend developer </p> 
+
 ###
 
 <div align="center">
