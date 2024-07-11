@@ -4,17 +4,22 @@
 
 <br clear="both">
 
-<p align="center">IT Engineering student with the passion of full Stack development. Adapt at swiftly learning and implementing new technologies with the skill of MERN stack development and deep understanding of data structure and algorithm. Looking for the opportunity as a full Stack developer</p>
+<p align="center">IT Engineer with the passion of full Stack development. Adapt at swiftly learning and implementing new technologies with the skill of MERN stack development and deep understanding of data structure and algorithm. Looking for the opportunity as a full Stack developer</p>
 
 ###
+
+<br clear="both">
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=karansuryawanshi.karansuryawanshi&"  />
 
 ###
 
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=karansuryawanshi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karansuryawanshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karansuryawanshi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="179" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karansuryawanshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="175" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=karansuryawanshi&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="165" alt="streak graph"  />
 </div>
 
 ###
@@ -60,7 +65,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
